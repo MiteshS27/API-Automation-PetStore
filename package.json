@@ -2,6 +2,7 @@
     "name": "api-tests",
     "version": "1.0.0",
     "description": "",
+    "homepage": "https://github.com/MiteshS27/API-Automation-PetStore",
     "main": "index.js",
     "scripts": {
       "test": "mocha --timeout 5000",
