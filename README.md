@@ -12,10 +12,10 @@
 # Setup Scripts
 1. Clone\unzip the repository to a folder.
 
-2. Go to the folder and run following command from terminal/command prompt.
-    
-      npm i 
+2. Go to the folder and run following command from terminal/command prompt.   
 
-3. Now Run the below command which will launch the Chrome Browser and will runs the scripts.
+npm i
 
-      npm test
+3. Now Run the below command which will launch the Chrome Browser and will runs the scripts.      
+
+npm test
